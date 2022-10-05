@@ -93,6 +93,21 @@ java activitat2.java
 
 ● Busqueu 3 IDEs de desenvolupament pel llenguatge. 
 
+- Intelij IDEA
+
+![image](https://user-images.githubusercontent.com/114953110/194006880-5e863724-48c4-4456-acb1-bdccc49f1a1a.png)
+
+
+- Eclipse IDE
+
+![image](https://user-images.githubusercontent.com/114953110/194006679-5e9b2ed8-0831-456b-8df6-0bdd4544f737.png)
+
+- Apache NetBeans
+
+![image](https://user-images.githubusercontent.com/114953110/194006811-121e08d0-44ce-49d2-bacd-c6d9d8df0eef.png)
+
+
+
 ##### Recordeu corregir les faltes d’ortografia.
 ##### Presentar el document de forma ordenada amb capçaleres adients i imatges de
 ##### reforç.
@@ -101,4 +116,5 @@ java activitat2.java
 
 https://www.educative.io/answers/how-to-generate-random-numbers-in-java
 https://muylinux.xyz/como-ejecutar-programas-java-en-la-terminal-en-ubuntu-y-otros-linux/
+https://geekflare.com/es/top-java-ide-and-online-compilers/
 
