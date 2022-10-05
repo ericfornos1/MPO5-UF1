@@ -10,7 +10,7 @@ UF1Activitat2.md que confingui la següent informació:
 Escolliu 3 llenguatges de programació, un de compilat, un d’interpretat i un de MV
 
 
-#### Per al llenguatge compilat:
+#### Per al llenguatge compilat (C++):
 ● Utilitzant la línia de comandes, sense utilitzar un IDE de desenvolupament
 escriureu el programa en un fitxer de text que sigui el codi font, el codi font
 l’adjunteu dins el document.
@@ -22,7 +22,7 @@ comanda per utilitzar-lo per passar de codi font a codi objecte.
 ● Expliqueu els avantatges d’utilitzar un llenguatge compilat i els punts febles.
 ● Busqueu 3 IDEs de desenvolupament pel llenguatge.
 
-#### Per al llenguatge interpretat:
+#### Per al llenguatge interpretat (PHP):
 ● Utilitzant la línia de comandes, sense utilitzar un IDE de desenvolupament
 escriureu el programa en un fitxer de text que sigui el codi font, el codi font
 l’adjunteu dins el document.
@@ -32,7 +32,7 @@ l’adjunteu dins el document.
 ● Expliqueu els avantatges d’utilitzar un llenguatge interpretat i els punts febles.
 ● Busqueu 3 IDEs de desenvolupament pel llenguatge
 
-#### Per al llenguatge de MV:
+#### Per al llenguatge de MV (Java - JVM):
 ● Utilitzant la línia de comandes, sense utilitzar un IDE de desenvolupament
 escriureu el programa en un fitxer de text que sigui el codi font, el codi font
 l’adjunteu dins el document.
