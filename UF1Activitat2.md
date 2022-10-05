@@ -26,9 +26,13 @@ comanda per utilitzar-lo per passar de codi font a codi objecte.
 ● Utilitzant la línia de comandes, sense utilitzar un IDE de desenvolupament
 escriureu el programa en un fitxer de text que sigui el codi font, el codi font
 l’adjunteu dins el document.
+
 ● Identifiqueu l'intèrpret del llenguatge (l’executable).
 
-![image](https://user-images.githubusercontent.com/114953110/194017671-c4ee30ea-eb93-42e8-b3c9-5e270ba0c0c5.png)
+![image](https://user-images.githubusercontent.com/114953110/194021975-7d6d922f-6459-4ec0-ba69-49cc944b1e16.png)
+
+
+
 
 
 ● Descriviu com funciona l’intèrpret.
