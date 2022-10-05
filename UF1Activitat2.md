@@ -1,4 +1,4 @@
-##Activitat 2 - Pràctica amb llenguatges.##
+#Activitat 2 - Pràctica amb llenguatges.
 
 PER PARELLES:
 Ara que ja coneixeu uns quants llenguatges de programació el que farem serà
