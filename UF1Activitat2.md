@@ -54,6 +54,14 @@ public class activitat2 {
 ● Identifiqueu el compilador real (nom d’executable) que utilitzeu i la comanda
 per utilitzar-lo per passar de codi font a ByteCode.
 
+el compilador de java es javac, l'instal·lem d'aquesta forma
+
+![image](https://user-images.githubusercontent.com/114953110/194002865-8fffa9a6-10e1-43a0-81ed-2908c04fba90.png)
+
+i el fem servir aixi
+
+![image](https://user-images.githubusercontent.com/114953110/194003109-c02080d9-a66d-40d6-9693-33fae90d8920.png)
+
 ● Descriviu com passar de codi font a ByteCode.
 
 una vegada afetgim la extensio .java al nostre codi font es genera l'arxiu .class que es on guarda el ByteCode
@@ -68,8 +76,7 @@ ByteCode: .class ![image](https://user-images.githubusercontent.com/114953110/19
 
 ● Descriviu com executar el programa.
 
-![image](https://user-images.githubusercontent.com/114953110/194002865-8fffa9a6-10e1-43a0-81ed-2908c04fba90.png)
-![image](https://user-images.githubusercontent.com/114953110/194003109-c02080d9-a66d-40d6-9693-33fae90d8920.png)
+
 
 ● Expliqueu els avantatges d’utilitzar un llenguatge de MV i els punts febles.
 
@@ -80,4 +87,7 @@ ByteCode: .class ![image](https://user-images.githubusercontent.com/114953110/19
 ##### reforç.
 ##### El codi del programa fiqueu-lo dins del tag ``` codi ```.
 ##### Indiqueu la webgrafia utilitzada.
+
+https://www.educative.io/answers/how-to-generate-random-numbers-in-java
+https://muylinux.xyz/como-ejecutar-programas-java-en-la-terminal-en-ubuntu-y-otros-linux/
 
