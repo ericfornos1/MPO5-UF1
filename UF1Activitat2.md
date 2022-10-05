@@ -36,11 +36,41 @@ l’adjunteu dins el document.
 ● Utilitzant la línia de comandes, sense utilitzar un IDE de desenvolupament
 escriureu el programa en un fitxer de text que sigui el codi font, el codi font
 l’adjunteu dins el document.
+
+```
+public class activitat2 {
+
+	public static void main (String[] args) {
+	
+		int min = 0;
+		int max = 6;
+		
+		int d6 = (int)Math.floor(Math.random()*(max-min+1)+min);
+		System.out.println(d6);
+	}
+}
+```
+
 ● Identifiqueu el compilador real (nom d’executable) que utilitzeu i la comanda
 per utilitzar-lo per passar de codi font a ByteCode.
+
 ● Descriviu com passar de codi font a ByteCode.
+
+una vegada afetgim la extensio .java al nostre codi font es genera l'arxiu .class que es on guarda el ByteCode
+
 ● Mostreu les extensions dels fitxers de codi font i ByteCode.
+
+codi font: .java ![image](https://user-images.githubusercontent.com/114953110/194004922-cfd67e0f-9902-4cc9-81c1-a2dbc7ff46da.png)
+
+
+ByteCode: .class ![image](https://user-images.githubusercontent.com/114953110/194004891-7e87433f-631c-403f-8bae-9e638684ec71.png)
+
+
 ● Descriviu com executar el programa.
+
+![image](https://user-images.githubusercontent.com/114953110/194002865-8fffa9a6-10e1-43a0-81ed-2908c04fba90.png)
+![image](https://user-images.githubusercontent.com/114953110/194003109-c02080d9-a66d-40d6-9693-33fae90d8920.png)
+
 ● Expliqueu els avantatges d’utilitzar un llenguatge de MV i els punts febles.
 ● Busqueu 3 IDEs de desenvolupament pel llenguatge. 
 
