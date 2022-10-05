@@ -138,6 +138,7 @@ java activitat2.java
 
 **php**
 
+https://www.geeksforgeeks.org/php-rand-function/
 https://php.watch/articles/compile-php-ubuntu
 
 **java**
