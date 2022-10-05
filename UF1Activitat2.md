@@ -57,10 +57,13 @@ per utilitzar-lo per passar de codi font a ByteCode.
 el compilador de java es javac, l'instal·lem d'aquesta forma
 
 ![image](https://user-images.githubusercontent.com/114953110/194002865-8fffa9a6-10e1-43a0-81ed-2908c04fba90.png)
+![image](https://user-images.githubusercontent.com/114953110/194005745-d13f7453-df8a-4878-8113-b3273d9ae24b.png)
 
 i el fem servir aixi
 
-![image](https://user-images.githubusercontent.com/114953110/194003109-c02080d9-a66d-40d6-9693-33fae90d8920.png)
+![image](https://user-images.githubusercontent.com/114953110/194005893-e1d778c5-01bb-45a7-90ee-68e72426c7c9.png)
+
+si no surt cap error significa que javac ha compilat de forma correcta
 
 ● Descriviu com passar de codi font a ByteCode.
 
@@ -75,6 +78,14 @@ ByteCode: .class ![image](https://user-images.githubusercontent.com/114953110/19
 
 
 ● Descriviu com executar el programa.
+
+una vegada instal·lem javac podem utilitzar la comanda 
+
+```
+java activitat2.java
+```
+
+![image](https://user-images.githubusercontent.com/114953110/194003109-c02080d9-a66d-40d6-9693-33fae90d8920.png)
 
 
 
