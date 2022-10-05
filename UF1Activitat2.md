@@ -91,18 +91,27 @@ java activitat2.java
 
 ● Expliqueu els avantatges d’utilitzar un llenguatge de MV i els punts febles.
 
+- Avantatges:
+
+1. 
+
+
+- Punts febles:
+
+
+
 ● Busqueu 3 IDEs de desenvolupament pel llenguatge. 
 
-- Intelij IDEA
+- **Intelij IDEA**
 
 ![image](https://user-images.githubusercontent.com/114953110/194006880-5e863724-48c4-4456-acb1-bdccc49f1a1a.png)
 
 
-- Eclipse IDE
+- **Eclipse IDE**
 
 ![image](https://user-images.githubusercontent.com/114953110/194006679-5e9b2ed8-0831-456b-8df6-0bdd4544f737.png)
 
-- Apache NetBeans
+- **Apache NetBeans**
 
 ![image](https://user-images.githubusercontent.com/114953110/194006811-121e08d0-44ce-49d2-bacd-c6d9d8df0eef.png)
 
