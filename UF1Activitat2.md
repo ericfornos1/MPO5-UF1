@@ -93,10 +93,16 @@ java activitat2.java
 
 - Avantatges:
 
-1. 
+1. En el cas especific de Java la gran ventatja que te es que tel JVM que es un entorn de maquina virtual que executa programes d'aquest llenguatge
+2. El codi de bytes de Java s'escriu una vegada i despres s'executa en multiples plataformes. No te que ser portat a un entornde hardware en especific ja que s'executa en JVM
+3. La maquina virtual de Java s'ha incorporat en les caracteristiques de seguretat. Evita tambe que el software malintencionat posi en perill el Sistema Operatiu
 
 
 - Punts febles:
+
+1. Els programes Java exectutas en JVM solen tenir un rendiment mes lent que els programes equivalents a escrits amb C++. La neuralitat del sistema de codis de Byte actua com una desventatja quan es trata de rendiment
+2. JVM te que estar lliure de errors per a que el programa funcioni correctament, aquesta dependencia de JVM introdueix un posible punt de fallo per a que el programa funcioni correctament
+3. Com a espasa de doble fulla tansols podrem utilitzar un programa de java amb JVM 
 
 
 
@@ -125,4 +131,6 @@ java activitat2.java
 https://www.educative.io/answers/how-to-generate-random-numbers-in-java
 https://muylinux.xyz/como-ejecutar-programas-java-en-la-terminal-en-ubuntu-y-otros-linux/
 https://geekflare.com/es/top-java-ide-and-online-compilers/
+https://www.seabrookewindows.com/DMRkaEmWw/
+
 
