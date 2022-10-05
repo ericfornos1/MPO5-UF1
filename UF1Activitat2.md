@@ -27,6 +27,10 @@ comanda per utilitzar-lo per passar de codi font a codi objecte.
 escriureu el programa en un fitxer de text que sigui el codi font, el codi font
 l’adjunteu dins el document.
 ● Identifiqueu l'intèrpret del llenguatge (l’executable).
+
+![image](https://user-images.githubusercontent.com/114953110/194017671-c4ee30ea-eb93-42e8-b3c9-5e270ba0c0c5.png)
+
+
 ● Descriviu com funciona l’intèrpret.
 ● Mostreu les extensions dels fitxers de codi font.
 ● Expliqueu els avantatges d’utilitzar un llenguatge interpretat i els punts febles.
@@ -128,6 +132,16 @@ java activitat2.java
 ##### El codi del programa fiqueu-lo dins del tag ``` codi ```.
 ##### Indiqueu la webgrafia utilitzada.
 
+**c++**
+
+
+
+**php**
+
+https://php.watch/articles/compile-php-ubuntu
+
+**java**
+
 https://www.educative.io/answers/how-to-generate-random-numbers-in-java
 
 https://muylinux.xyz/como-ejecutar-programas-java-en-la-terminal-en-ubuntu-y-otros-linux/
@@ -137,5 +151,7 @@ https://geekflare.com/es/top-java-ide-and-online-compilers/
 https://www.seabrookewindows.com/DMRkaEmWw/
 
 https://adictoalcodigo.blogspot.com/2016/07/ventajas-y-desventajas-de-programar-en.html
+
+
 
 
