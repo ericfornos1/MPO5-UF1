@@ -118,8 +118,7 @@ java activitat2.java
 
 
 ##### Recordeu corregir les faltes d’ortografia.
-##### Presentar el document de forma ordenada amb capçaleres adients i imatges de
-##### reforç.
+##### Presentar el document de forma ordenada amb capçaleres adients i imatges de reforç.
 ##### El codi del programa fiqueu-lo dins del tag ``` codi ```.
 ##### Indiqueu la webgrafia utilitzada.
 
