@@ -72,6 +72,7 @@ ByteCode: .class ![image](https://user-images.githubusercontent.com/114953110/19
 ![image](https://user-images.githubusercontent.com/114953110/194003109-c02080d9-a66d-40d6-9693-33fae90d8920.png)
 
 ● Expliqueu els avantatges d’utilitzar un llenguatge de MV i els punts febles.
+
 ● Busqueu 3 IDEs de desenvolupament pel llenguatge. 
 
 ##### Recordeu corregir les faltes d’ortografia.
