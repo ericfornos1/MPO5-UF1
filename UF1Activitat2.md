@@ -129,9 +129,13 @@ java activitat2.java
 ##### Indiqueu la webgrafia utilitzada.
 
 https://www.educative.io/answers/how-to-generate-random-numbers-in-java
+
 https://muylinux.xyz/como-ejecutar-programas-java-en-la-terminal-en-ubuntu-y-otros-linux/
+
 https://geekflare.com/es/top-java-ide-and-online-compilers/
+
 https://www.seabrookewindows.com/DMRkaEmWw/
+
 https://adictoalcodigo.blogspot.com/2016/07/ventajas-y-desventajas-de-programar-en.html
 
 
