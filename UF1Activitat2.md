@@ -88,6 +88,7 @@ Els IDEs més utilitzats en ordre per a C són:
 ● Utilitzant la línia de comandes, sense utilitzar un IDE de desenvolupament
 escriureu el programa en un fitxer de text que sigui el codi font, el codi font
 l’adjunteu dins el document.
+
 ![image](https://user-images.githubusercontent.com/114953110/195071368-1e5102af-efa6-4e2e-b3a4-3dd469458c68.png)
 
 ```
