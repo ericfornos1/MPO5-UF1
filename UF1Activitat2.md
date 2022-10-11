@@ -103,18 +103,31 @@ Els IDEs més utilitzats en ordre per a C són:
 ● Utilitzant la línia de comandes, sense utilitzar un IDE de desenvolupament
 escriureu el programa en un fitxer de text que sigui el codi font, el codi font
 l’adjunteu dins el document.
+![image](https://user-images.githubusercontent.com/114953110/195071368-1e5102af-efa6-4e2e-b3a4-3dd469458c68.png)
+
+```
+<?php
+
+$randomNumber = rand(0, 6);
+print_r($randomNumber);
+
+?>
+```
+
 
 ● Identifiqueu l'intèrpret del llenguatge (l’executable).
 
 ![image](https://user-images.githubusercontent.com/114953110/194021975-7d6d922f-6459-4ec0-ba69-49cc944b1e16.png)
 
 
-
-
-
 ● Descriviu com funciona l’intèrpret.
+
 ● Mostreu les extensions dels fitxers de codi font.
+
+les extensions dels fitxers de codi font son .php ![image](https://user-images.githubusercontent.com/114953110/195071615-b755d260-83e9-4ecf-a172-2dc8b96aa7c5.png)
+
 ● Expliqueu els avantatges d’utilitzar un llenguatge interpretat i els punts febles.
+
 ● Busqueu 3 IDEs de desenvolupament pel llenguatge
 
 #### Per al llenguatge de MV (Java - JVM):
