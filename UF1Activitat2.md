@@ -107,6 +107,8 @@ print_r($randomNumber);
 
 ● Descriviu com funciona l’intèrpret.
 
+l'interpret de php utilitza el motor Zend engine, el scripts php es carga en la memoria i es compila per formar zendopcodes, 
+
 ● Mostreu les extensions dels fitxers de codi font.
 
 les extensions dels fitxers de codi font son .php ![image](https://user-images.githubusercontent.com/114953110/195071615-b755d260-83e9-4ecf-a172-2dc8b96aa7c5.png)
@@ -114,6 +116,20 @@ les extensions dels fitxers de codi font son .php ![image](https://user-images.g
 ● Expliqueu els avantatges d’utilitzar un llenguatge interpretat i els punts febles.
 
 ● Busqueu 3 IDEs de desenvolupament pel llenguatge
+
+- **Visual Studio Code**
+
+![image](https://user-images.githubusercontent.com/114953110/195074294-980c539b-cce1-4f3c-94d2-1b64276058d2.png)
+
+
+- **Atom**
+
+![image](https://user-images.githubusercontent.com/114953110/195074274-b113a5f8-2f9f-40d4-92f1-29292abdaa82.png)
+
+- **Brackets**
+
+![image](https://user-images.githubusercontent.com/114953110/195074247-1ea2fba7-1d07-403a-9421-78dfe133ba1a.png)
+
 
 #### Per al llenguatge de MV (Java - JVM):
 ● Utilitzant la línia de comandes, sense utilitzar un IDE de desenvolupament
