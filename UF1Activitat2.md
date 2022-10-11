@@ -116,6 +116,15 @@ les extensions dels fitxers de codi font son .php ![image](https://user-images.g
 
 ● Expliqueu els avantatges d’utilitzar un llenguatge interpretat i els punts febles.
 
+ **Avaentatges**
+-Multiplataforma. L'interpret sol estar en bastants sistemes operatius
+-Portabilitat. El mateix programa pot utilitzarse en diferents plataformes
+-augment del rendiment. Disminueix la carga del servidor en servidors web ja que per exemple javascript s'executen en el navegador client
+**Punts Febles**
+-Dificils de depurar
+-la execucio sol ser mes lenta que els llenguatges compilats
+-es te que tindre acces al codi i no tansols al executable
+
 ● Busqueu 3 IDEs de desenvolupament pel llenguatge
 
 - **Visual Studio Code**
@@ -236,6 +245,8 @@ java activitat2.java
 
 https://www.geeksforgeeks.org/php-rand-function/
 https://php.watch/articles/compile-php-ubuntu
+https://vidabytes.com/lenguaje-interpretado/
+https://lenguajesdeprogramacion.net/diccionario/que-es-un-lenguaje-interpretado/
 
 **java**
 
