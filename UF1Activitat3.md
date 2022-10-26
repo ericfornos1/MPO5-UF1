@@ -1,18 +1,6 @@
 Buscar informació i explicar:
 
-● Model en cascada.
-
-● Model en espiral.
-
-● Model de prototips.
-
-● Scrum.
-
-● Model V.
-
-● RUP.
-
-● Model incremental.
+● Programacio Extrema
 
 
 
