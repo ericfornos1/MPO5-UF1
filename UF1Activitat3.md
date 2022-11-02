@@ -7,13 +7,24 @@ Buscar informació i explicar:
 
 ● Quines persones intervenen.
 
+
+
+
 ● Funcionament.
+
+
 
 ● Fases.
 
+
+
 ● Producte de cada fase.
 
+
+
 ● Punts forts i febles.
+
+
 
 ● Per quins projectes és més
 adequat…
