@@ -62,10 +62,6 @@ producte: prototip final
 
 - El client s'implica en el proces
 
-- Requereix molt de temps
-
-- Relativament car
-
 - Requereix control de versions
 
 - Requereix autodisciplina en l'aplicacio
