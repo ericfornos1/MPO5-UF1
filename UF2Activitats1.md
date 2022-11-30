@@ -96,12 +96,13 @@ temperatura 29 = roba = "roba d'estiu"
 ```
   - **Diagrama:**
 
+![image](https://user-images.githubusercontent.com/113585897/204750747-48c28dff-ae50-446b-84ac-01c49378e307.png)
 
 
   - **Resultat CC:**
 
 
-
+3
 
        
 
