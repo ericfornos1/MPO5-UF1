@@ -13,6 +13,7 @@ Per dibuixar els diagrames de flux podeu fer servir [draw.io](https://draw.io) o
 5
 
   - **Resultat 2:**
+ 
 5
 
   - **Resultat 3:**
