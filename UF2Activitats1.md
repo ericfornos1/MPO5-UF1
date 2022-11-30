@@ -74,6 +74,11 @@ public class proves {
     }
 ```
   - **Diagrama:**
+
+![image](https://user-images.githubusercontent.com/113585897/204746007-84f6cfd0-9e5b-4ef0-af2c-5f201f93e495.png)
+
+
+
   - **Resultat CC:**
   - **Resultat proves camins:**
 
