@@ -60,7 +60,20 @@ public class proves {
 ```
 
   - **Diagrama:**
+
+![image](https://user-images.githubusercontent.com/113585897/204746007-84f6cfd0-9e5b-4ef0-af2c-5f201f93e495.png)
+
+
   - **Resultat CC:**
+
+3
+
+  - **Resultat proves camins:**
+
+temperatura = -1 = roba = "roba d'esquiar"
+temperatura = 9 = roba = "roba de muntanya"
+temperatura = 19 = roba = "roba d'hivern"
+temperatura 29 = roba = "roba d'estiu"
 
 4. Dibuixa el diagrama de flux representat per aquest codi, calcula la seva CC i crea una prova per a cada camí posible:
 
@@ -75,12 +88,15 @@ public class proves {
 ```
   - **Diagrama:**
 
-![image](https://user-images.githubusercontent.com/113585897/204746007-84f6cfd0-9e5b-4ef0-af2c-5f201f93e495.png)
-
 
 
   - **Resultat CC:**
-  - **Resultat proves camins:**
+
+
+
+
+       
+
 
 5. Investiga sobre les proves de caixa negra:
 
