@@ -71,9 +71,17 @@ public class proves {
   - **Resultat proves camins:**
 
 temperatura = -1 = roba = "roba d'esquiar"
+
+
 temperatura = 9 = roba = "roba de muntanya"
+
+
 temperatura = 19 = roba = "roba d'hivern"
+
+
 temperatura 29 = roba = "roba d'estiu"
+
+
 
 4. Dibuixa el diagrama de flux representat per aquest codi, calcula la seva CC i crea una prova per a cada camí posible:
 
@@ -101,5 +109,17 @@ temperatura 29 = roba = "roba d'estiu"
 5. Investiga sobre les proves de caixa negra:
 
   - Què són?
+
+Una caixa negra és, en teoria de sistemes, aquell element que és estudiat des del punt de vista de les entrades que rep i les sortides o respostes que produeix, sense tenir en compte el seu funcionament intern.
+
+
   - Quina diferència principal tenen sobre les de caixa blanca?
+
+
+La principal diferencia entre una caixa blanca i una caixa negra es que la caixa blanca té en compte el funcionament i la caixa negra funciona sense tenir en compte el seu funcionament intern.
+
+
+
+![image](https://user-images.githubusercontent.com/113585897/204749627-aeef2381-748c-4b7b-9f2f-ff053b29eb1b.png)
+
 
